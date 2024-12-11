@@ -65,7 +65,7 @@ Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 ![Chatbot Interaction](https://example.com/demo.gif)
 
-Check out the live demo: [AI Chatbot Demo](https://example.com/demo)
+Check out the live demo: [AI Chatbot Demo](https://akashvim3.github.io/Ai---Chatbot/)
 
 ## 📧 Contact
 
